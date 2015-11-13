@@ -1,6 +1,11 @@
-# codeblock
+
 best and simplest way to integrate MySQL database with c++ in code::block IDE.
+
+
 Hi guys this repository is to help those guys who are facing difficulty in integrating mysql database with c++, here are some link kindly download the files from following links:
+
+
+
 1-> Codeblock IDE/compilier:  http://cbsecsnip.in/software/swdownload.php?filename=codeblocks-10.05mingw-setup.exe
 2-> mysql server: http://cbsecsnip.in/software/swdownload.php?filename=mysql-5.5.27-win32.msi
 3-> sqlapi: http://cbsecsnip.in/software/swdownload.php?filename=sqlapi_trial.exe
