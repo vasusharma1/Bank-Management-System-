@@ -40,10 +40,28 @@ C:\Program Files(x86)\CodeBlocks\MinGW\lib\liboleaut32.a
 
 
 C:\Program Files(x86)\CodeBlocks\MinGW\lib\libole32.a
+
+
 *******during performing step (11,13,14,15,16,17) of these file there will be pop-up for making them relative path(so select NO for that option).***********
-Now go to Compiler and debugger option from Setting Menu in main menu and select "toolchain executables" under that change C complier to "gcc.exe".
+
+
+
+Now go to Compiler and debugger option from Setting Menu in main menu and select "toolchain executables" under that change C 
+complier to "gcc.exe".
+
+
 CLICK OK( your work for library and include is done)
+
+
+
 Now here we proceed for debuging part
-goto your project(project name->source->main.cpp) located at left pane after this press debug option and see the path of your debug (normally it debug folder appears where u save ur project so have a look at that folder) open that and paste files from path:C:\SQLAPI\MinGW-4.4\bin\libsqlapid.dll;
-    C:\Program Files\MySQL\MySQL Server 5.5\liblibmysql.dll;
+
+
+goto your project(project name->source->main.cpp) located at left pane after this press debug option and see the path of your debug (normally it debug folder appears where u save ur project so have a look at that folder) open that and paste files from path:
+
+
+C:\SQLAPI\MinGW-4.4\bin\libsqlapid.dll;
+
+C:\Program Files\MySQL\MySQL Server 5.5\liblibmysql.dll;
+
 clicl OK ur done setting up environment:
