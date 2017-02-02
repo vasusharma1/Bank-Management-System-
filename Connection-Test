@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @vasusharma1
- Unwatch 1
-  Star 0
-  Fork 0 vasusharma1/connection
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathconnection/.gitignore
-92d719b  on Nov 13, 2015
-@vasusharma1 vasusharma1 Update .gitignore
-1 contributor
-RawBlameHistory     
-58 lines (57 sloc)  1.68 KB
 #include <iostream>
  #include <conio.h>
  #include <SQLAPI.h> //  main SQLAPI++ header
